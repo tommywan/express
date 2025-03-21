@@ -1,12 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Download XML</title>
+  <meta charset="UTF-8">
+  <title>Downloading...</title>
+  <script>
+    window.onload = () => {
+      const link = document.createElement('a');
+      link.href = 'xpress.xml';
+      link.download = 'xpress.xml'; // this is the filename it will save as
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    };
+  </script>
 </head>
 <body>
-    <h1>Download XML File</h1>
-    <a href="https://tommywan.github.io/express/express.xml" download="express.xml">Download Express XML</a>
+  <p>Your download should begin automatically. If not, <a href="xpress.xml" download>click here</a>.</p>
 </body>
 </html>
