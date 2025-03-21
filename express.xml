@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Express</Title>
+    <DirectoryEntry>
+      <Name>Alarm Codes</Name>
+      <Telephone>7034686100</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>American Express CC Authorization</Name>
+      <Telephone>8005282121</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Associate Line</Name>
+      <Telephone>8009649793</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>China Union Pay CC Authorization</Name>
+      <Telephone>8665675516</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Counterfeit Machine</Name>
+      <Telephone>8889932228</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Customer Care</Name>
+      <Telephone>9785283605</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Discover CC Authorization</Name>
+      <Telephone>8003471111</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Express Credit Card Acct Lookup Voice Auth</Name>
+      <Telephone>8008883286</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Express Credit Card Instant Quick Credit</Name>
+      <Telephone>8006954899</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Express Gift Card</Name>
+      <Telephone>8882440328</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>FedEx</Name>
+      <Telephone>8004633339</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>JCB CC Authorization</Name>
+      <Telephone>8003664522</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Lightbulbs</Name>
+      <Telephone>4403381398</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Mail Services</Name>
+      <Telephone>6144744250</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Store Facilities Emergencies</Name>
+      <Telephone>6144748908</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+      <Name>Visa or Mastercard CC Authorization</Name>
+      <Telephone>8666698939</Telephone>
+    </DirectoryEntry>
+  </Menu>
+</YealinkIPPhoneBook>
